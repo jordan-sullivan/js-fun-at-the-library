@@ -17,7 +17,7 @@ var pages = 450;
 // Reassign (not initialize) your "pages" variable from above. An editor came around and
 // condensed the book, use a built in math operator to make the page count a quarter
 // of what it currently is
-pages = 450 / 4;
+pages = pages / 4;
 console.log(pages)
 //112.5
 
